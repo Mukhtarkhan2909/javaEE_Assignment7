@@ -16,14 +16,14 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home
+                        <a class="nav-link" href="home.jsp">Home
                         </a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Registration</a>
+                        <a class="nav-link" href="registration.jsp">Registration</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Login</a>
+                        <a class="nav-link" href="login.jsp">Login</a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Logout</a>

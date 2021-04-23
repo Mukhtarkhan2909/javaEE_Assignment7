@@ -4,9 +4,7 @@
 <%@ include file="header.jsp" %>
 
 <div class="container">
-    <br>
-    <br>
-    <br>
+    <br><br><br><br>
     <%
         ForumService service = new ForumService();
         List<Post> posts = service.getPosts();
